@@ -154,7 +154,6 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <label>CopadoTest</label>
-	
     <nameField>
         <label>Name</label>
         <type>Text</type>
