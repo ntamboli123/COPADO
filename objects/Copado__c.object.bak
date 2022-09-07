@@ -162,4 +162,33 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+    <fields>
+        <fullName>Copad0_Field1__c</fullName>
+        <externalId>false</externalId>
+        <label>Copad0_Field1</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Copad0_Field2__c</fullName>
+        <externalId>false</externalId>
+        <label>Copad0_Field2</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Copad0_Field3__c</fullName>
+        <externalId>false</externalId>
+        <label>Copad0_Field3</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
 </CustomObject>
