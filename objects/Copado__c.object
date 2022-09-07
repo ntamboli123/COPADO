@@ -183,11 +183,18 @@
         <type>Number</type>
         <unique>false</unique>
     </fields>
-	
     <fields>
         <fullName>Copad0_Field3__c</fullName>
         <externalId>false</externalId>
         <label>Copad0_Field3</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+	    <fields>
+        <fullName>Copad0_Field4__c</fullName>
+        <externalId>false</externalId>
+        <label>Copad0_Field4</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Date</type>
